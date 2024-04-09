@@ -150,6 +150,6 @@ void loop() {
 
 12. That's all, you can play with your own device, understand the code, make your own changes and improve the program. If the device is flashed normally, but does not work correctly, you can try to turn the adjustment resistor (potentiometer) on the microphone module.
 
-13. Device working video:
-
-<p align="center"><video src="./assets/working.mp4" width="500px"></p>
+13. Device in action:
+    
+![Working](./assets/working.webp)
