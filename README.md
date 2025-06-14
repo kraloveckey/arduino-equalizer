@@ -6,10 +6,6 @@ align="center">🎶 Simple equalizer with your own hands. The principle of opera
 
 ---
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/kraloveckey)
-
----
-
 ## Components
 
 Since we try to make the device as accessible and simple as possible, we will use the following components:
@@ -151,3 +147,9 @@ void loop() {
 13. Device in action:
     
 ![Working](./assets/working.webp)
+
+---
+
+<a href="https://www.paypal.com/donate/?hosted_button_id=GWWLEXEF3XL92">
+  <img src="https://raw.githubusercontent.com/kraloveckey/kraloveckey/refs/heads/main/.assets/paypal-donate-button.png" alt="Donate with PayPal" width="225" height="100"/>
+</a>
